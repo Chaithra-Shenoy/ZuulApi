@@ -1,0 +1,6 @@
+com/bridgeit/apigateway/redisrepository/IRedisRepository.class
+com/bridgeit/apigateway/filter/RouteFilter.class
+com/bridgeit/apigateway/configuration/RedisConfig.class
+com/bridgeit/apigateway/ApigatewayApplication.class
+com/bridgeit/apigateway/redisrepository/RedisRepositoryImpl.class
+com/bridgeit/apigateway/tokengenerator/TokenGenerator.class

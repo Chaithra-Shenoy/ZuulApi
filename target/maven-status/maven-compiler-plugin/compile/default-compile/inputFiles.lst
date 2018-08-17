@@ -1,0 +1,6 @@
+/home/administrator/ToDoApplication/apigateway/src/main/java/com/bridgeit/apigateway/configuration/RedisConfig.java
+/home/administrator/ToDoApplication/apigateway/src/main/java/com/bridgeit/apigateway/redisrepository/IRedisRepository.java
+/home/administrator/ToDoApplication/apigateway/src/main/java/com/bridgeit/apigateway/ApigatewayApplication.java
+/home/administrator/ToDoApplication/apigateway/src/main/java/com/bridgeit/apigateway/tokengenerator/TokenGenerator.java
+/home/administrator/ToDoApplication/apigateway/src/main/java/com/bridgeit/apigateway/filter/RouteFilter.java
+/home/administrator/ToDoApplication/apigateway/src/main/java/com/bridgeit/apigateway/redisrepository/RedisRepositoryImpl.java
