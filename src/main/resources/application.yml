@@ -20,7 +20,7 @@ zuul:
       serviceId: UserService
     note:
       path: /zuulnote/**
-      serviceId: discoveryclientnote
+      serviceId: NoteService
     sensitive-Headers: userId
 
 server:
