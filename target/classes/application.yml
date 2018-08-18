@@ -24,7 +24,7 @@ zuul:
     sensitive-Headers: userId
 
 server:
-  port: 8080
+  port: 8085
  
 ribbon:
        ConnectTimeout: 40000
