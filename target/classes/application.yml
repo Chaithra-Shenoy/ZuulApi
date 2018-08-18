@@ -20,11 +20,11 @@ zuul:
       serviceId: UserService
     note:
       path: /zuulnote/**
-      serviceId: discoveryclientnote
+      serviceId: NoteService
     sensitive-Headers: userId
 
 server:
-  port: 8085
+  port: 8080
  
 ribbon:
        ConnectTimeout: 40000
